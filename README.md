@@ -29,3 +29,7 @@ Se generan cuentos coherentes junto con ilustraciones acordes al contenido.
 
 ## Conclusión
 La inteligencia artificial permite automatizar la creación de contenido educativo de forma eficiente.
+
+## Ejemplo de imagen generada
+
+![Dragón](dragon.png)
