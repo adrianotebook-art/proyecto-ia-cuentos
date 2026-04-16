@@ -32,4 +32,4 @@ La inteligencia artificial permite automatizar la creación de contenido educati
 
 ## Ejemplo de imagen generada
 
-![Dragón](dragon.png)
+![Dragón](dragoncave.png)
